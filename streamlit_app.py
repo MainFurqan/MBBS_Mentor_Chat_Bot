@@ -9,7 +9,7 @@ from langchain.schema import (
 )
 import json
 
-openapi_key = "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"
+openapi_key = st.screts["OPENAI_API_KEY"]
 
 # Set streamlit page configuration
 st.set_page_config(page_title="MFA Project_1")
