@@ -1,2 +1,3 @@
 # MBBS_Mentor_Chat_Bot
-This chat bot will assist the all question about MBBS(Bachelor of Medicine, Bachelor of Surgery). This Chat Bot work as a assistant of MBBS student.
+. This chat bot work as a assistand of MBBS(Bachelor of Medicine, Bachelor of Surgery). It assist the all questions about MBBS such as Anatomy, Physiology, Biochemistry, Pathology, Microbiology, Pharmacology, Community Medicine, General Medicine, General Surgery, Obstetrics and Gynecology, Pediatrics, Orthopedics, Radiology, Anesthesiology, Dermatology, Psychiatry, Emergency Medicine, General Health Queries, Symptom Checker, Medication Information, Wellness Tips, First Aid Guidance and related topics.
+. When, you want to run the this repositories in your machine firstly you do import the requirements.txt file in terminal or command prompt. Secondly, you enter the yourself API_KEY enter in openai_api_key variable. Finaly, you do run the this repositories in yourselt machine.
