@@ -18,7 +18,7 @@ st.title("MBBS Student Mentor")
 
 # Social Media Profile Link
 githup_link = "[GitHub Profile](https://github.com/MainFurqan)"
-Linkedin_link = "[Linkedin Profile](https://www.linkedin.com/in/main-furqan-arshad-3047662a1/)
+Linkedin_link = "[Linkedin Profile](https://www.linkedin.com/in/main-furqan-arshad-3047662a1/)"
 
 # Display Social Media Profile Links in the sidebar
 st.sidebar.title("Social Media Profile")
