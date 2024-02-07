@@ -15,6 +15,17 @@ openapi_key = st.secrets["OPENAI_API_KEY"]
 st.set_page_config(page_title="MFA Project_1")
 st.title("MBBS Student Mentor")
 
+
+# Social Media Profile Link
+githup_link = "[GitHub Profile](https://github.com/MainFurqan)"
+Linkedin_link = "[Linkedin Profile](https://www.linkedin.com/in/main-furqan-arshad-3047662a1/)
+
+# Display Social Media Profile Links in the sidebar
+st.sidebar.title("Social Media Profile")
+st.sidebar.write(githup_link, unsafe_allow_html=True)
+st.sidebar.write(Linkedin_link, unsafe_allow_html=True)
+
+
 # Initialize session state variables
 if 'generated' not in st.session_state:
     st.session_state['generated'] = [] # Store AI generated responses
